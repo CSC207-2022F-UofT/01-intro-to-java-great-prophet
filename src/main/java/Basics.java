@@ -40,7 +40,7 @@ public class Basics {
          */
         System.out.println(7 + 5);
 
-        System.out.println("Hello, World!");
+        System.out.println("Hello World!");
 
 
 
